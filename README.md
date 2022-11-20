@@ -1,4 +1,4 @@
-# LearningRMarkdown
+# LearningMarkdown
 How to Markdown
 
 Doble espacio es salto de linea,
