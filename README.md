@@ -20,4 +20,4 @@ no pondre doble espacio, solo enter
 
 #Para meter links
 
-[Haz click aquí para ir a un lugar divertido] {https://bongo.cat/}
+[Haz click aquí para ir a un lugar divertido](https://bongo.cat/)
